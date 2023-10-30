@@ -1,19 +1,19 @@
-#### *The first at the beginning changed everything.*
+***The first at the beginning changed everything.***
 
-#### *The second that followed acknowledged countless possibilities.*
+***The second that followed acknowledged countless possibilities.***
 
-#### *The third, building upon the previous, revealed the future.*
+***The third, building upon the previous, revealed the future.***
 
-#### *The fourth, arising thereafter, concealed their presence.*
+***The fourth, arising thereafter, concealed their presence.***
 
-#### *The fifth, which marked the end, had long-lost its meaning.*
+***The fifth, which marked the end, had long-lost its meaning.***
 
 <p align="right" ><em>---------------Witch on the Holy Night</em></p>
 <img src="Witch_on_the_Holy_Night.jpg" alt="Witch">
 
 ## Hi there! ❤️❤️
 
-##### Above is my favorite galgame, *Witch on the Holy Night*. Hopefully, you can also enjoy it.
+**Above is my favorite galgame, *Witch on the Holy Night*. Hopefully, you can also enjoy it.**
 
 Nice to meet you guys. 😊😊
 
@@ -29,8 +29,8 @@ There is nothing that makes me happier than becoming a member of GitHub. As a ne
         </td>
     </tr>    
     <tr align="center">
-        <td>
-            <a href="http://slenderman23.3vhost.club/"><img src="home.ico" height="32px" alt="home"><strong>My Home Page</strong></a>
+        <td >
+            <a href="http://slenderman23.3vhost.club/"><img src="home.ico" height="40px" align="center" alt="home"><strong>My Home Page</strong></a>
         </td>        
     </tr>
 </table>
