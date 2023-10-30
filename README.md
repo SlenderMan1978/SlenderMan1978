@@ -29,8 +29,8 @@ There is nothing that makes me happier than becoming a member of GitHub. As a ne
         </td>
     </tr>    
     <tr align="center">
-        <td>
-            <a href="http://slenderman23.3vhost.club/"><img src="home.ico" height="32px" alt="home"><strong>My Home Page</strong></a>
+        <td >
+            <a href="http://slenderman23.3vhost.club/"><img src="home.ico" height="40px" align="center" alt="home"><strong>My Home Page</strong></a>
         </td>        
     </tr>
 </table>
