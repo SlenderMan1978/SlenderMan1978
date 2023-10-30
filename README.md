@@ -13,7 +13,7 @@
 
 ## Hi there! ❤️❤️
 
-***Above is my favorite galgame, *Witch on the Holy Night*. Hopefully, you can also enjoy it.***
+**Above is my favorite galgame, *Witch on the Holy Night*. Hopefully, you can also enjoy it.**
 
 Nice to meet you guys. 😊😊
 
