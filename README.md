@@ -1,19 +1,19 @@
-***The first at the beginning changed everything.***
+***At the beginning, the First changed all.***
 
-***The second that followed acknowledged countless possibilities.***
+***Next, the Second reconized many.***
 
-***The third, building upon the previous, revealed the future.***
+***In answer, the Third showed the future.***
 
-***The fourth, arising thereafter, concealed their presence.***
+***Tethered, the Fourth concealed itself.***
 
-***The fifth, which marked the end, had long-lost its meaning.***
+***And the final Fifth had long since lost its significance.***
 
 <p align="right" ><em>---------------Witch on the Holy Night</em></p>
 <img src="Witch_on_the_Holy_Night.jpg" alt="Witch">
 
 ## Hi there! ❤️❤️
 
-**Above is my favorite galgame, *Witch on the Holy Night*. Hopefully, you can also enjoy it.**
+**Above is my favorite game, *Witch on the Holy Night*. Hopefully, you can also enjoy it.**
 
 Nice to meet you guys. 😊😊
 
