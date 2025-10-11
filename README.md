@@ -28,10 +28,5 @@ There is nothing that makes me happier than becoming a member of GitHub. As a ne
             <img alt="language" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlenderMan1978&layout=donut-vertical&theme=synthwave">
         </td>
     </tr>    
-    <tr align="center">
-        <td >
-            <a href="http://slenderman23.3vhost.club/"><img src="home.ico" height="40px" align="center" alt="home"><strong>My Home Page</strong></a>
-        </td>        
-    </tr>
 </table>
 
