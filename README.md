@@ -22,7 +22,7 @@ There is nothing that makes me happier than becoming a member of GitHub. As a ne
 <table>
     <tr>
         <td>
-            <img alt="contribution" height="100%" align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Slenderman1978&count_private=true&show_icons=true" alt="Github Status">
+            <img alt="contribution" height="100%" align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Slenderman1978&count_private=true&show_icons=true" alt="Github Status&theme=synthwave">
         </td>
         <td rowspan="2" align="center">
             <img alt="language" height="100%"  src="https://github-readme-stats-one-bice.vercel.app/api?username=SlenderMan1978&layout=donut-vertical&theme=synthwave">
